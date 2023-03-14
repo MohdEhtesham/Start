@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="89" viewBox="0 0 63 89">
+  <g id="facebook" transform="translate(-38 -681)">
+    <text id="Facebook-2" data-name="Facebook" transform="translate(69 765)" fill="#333" font-size="14" font-family="Jost-Regular, Jost"><tspan x="-28.322" y="0">Facebook</tspan></text>
+    <g id="facebook-3" data-name="facebook">
+      <circle id="Ellipse_228" data-name="Ellipse 228" cx="31.5" cy="31.5" r="31.5" transform="translate(38 681)" fill="#1877f2"/>
+      <g id="facebook-app-symbol" transform="translate(24.397 697.472)">
+        <path id="f_1_" d="M47.463,30.181V16.415h4.619l.693-5.366H47.463V7.623c0-1.553.43-2.612,2.659-2.612h2.839V.21A38.5,38.5,0,0,0,48.824,0c-4.1,0-6.9,2.5-6.9,7.091v3.957H37.29v5.366h4.633V30.181Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

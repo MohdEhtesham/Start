@@ -26,10 +26,10 @@ export default function App() {
     {/* <Navigators /> */}
     {/* <MyDrawer /> */}
     {/* <StackNavigator /> */}
-    <Navigators />
+    {/* <Navigators /> */}
     {/* <Custom /> */}
     {/* <Selectimage /> */}
-    {/* <Stacknavi /> */}
+    <Stacknavi />
     {/* <Firestorevalue/> */}
 {/* <GiftedChatcom /> */}
 {/* <Modals /> */}

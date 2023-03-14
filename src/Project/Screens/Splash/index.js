@@ -7,7 +7,7 @@ export default function Splash() {
     useEffect(()=>{
         setTimeout(() => {
             navigation.replace()
-        }, timeout);
+        }, 4000);
     },[])
   return (
     <View>

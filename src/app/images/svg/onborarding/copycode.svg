@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="89" viewBox="0 0 63 89">
+  <g id="copy-code" transform="translate(-38 -681)">
+    <text id="Copy" transform="translate(69 765)" fill="#333" font-size="14" font-family="Jost-Regular, Jost"><tspan x="-15.582" y="0">Copy</tspan></text>
+    <g id="copy-code-2" data-name="copy-code">
+      <circle id="Ellipse_228" data-name="Ellipse 228" cx="31.5" cy="31.5" r="31.5" transform="translate(38 681)" fill="#26ba98"/>
+      <g id="copy-2" data-name="copy" transform="translate(24.613 697.762)">
+        <g id="Group_993" data-name="Group 993" transform="translate(32)">
+          <g id="Group_992" data-name="Group 992" transform="translate(0)">
+            <path id="Path_3607" data-name="Path 3607" d="M51.376,0H34.768A2.767,2.767,0,0,0,32,2.768V22.144h2.768V2.768H51.376Z" transform="translate(-32)" fill="#fff"/>
+            <path id="Path_3608" data-name="Path 3608" d="M135.325,85.333H120.1a2.767,2.767,0,0,0-2.768,2.768v19.376a2.767,2.767,0,0,0,2.768,2.768h15.224a2.767,2.767,0,0,0,2.768-2.768V88.1A2.767,2.767,0,0,0,135.325,85.333Zm0,22.144H120.1V88.1h15.224Z" transform="translate(-111.797 -79.797)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="118" height="118" viewBox="0 0 118 118">
+  <defs>
+    <filter id="Ellipse_224" x="0" y="0" width="118" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="user" transform="translate(8.677 6.8)">
+    <g transform="matrix(1, 0, 0, 1, -8.68, -6.8)" filter="url(#Ellipse_224)">
+      <circle id="Ellipse_224-2" data-name="Ellipse 224" cx="50" cy="50" r="50" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <g id="key" transform="translate(29.323 -26.467)">
+      <g id="Group_2601" data-name="Group 2601" transform="translate(0 106.667)">
+        <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" d="M18,20.25A10.125,10.125,0,1,0,7.875,10.125,10.128,10.128,0,0,0,18,20.25Zm9,2.25H23.126a12.24,12.24,0,0,1-10.252,0H9a9,9,0,0,0-9,9v1.125A3.376,3.376,0,0,0,3.375,36h29.25A3.376,3.376,0,0,0,36,32.625V31.5A9,9,0,0,0,27,22.5Z" transform="translate(3 -49)" fill="#555"/>
+      </g>
+    </g>
+  </g>
+</svg>

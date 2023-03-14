@@ -1,0 +1,36 @@
+const colors = {
+  //define colors here
+  yellowButton: "#F1C86B",
+  whiteText: "#FFFFFF",
+  whiteLow: "#D6D6D6",
+  whiteF1F2: "#F1F1F2",
+  textFieldBackgroudcolur: "rgba(255,255,255,0.2)",
+  RedHeader: "#ED3751",
+  black: "#161616",
+  BottomTabstextInactice: "#757575",
+  borderColor: "#D2D2D2",
+  textLight_777777: "#777777",
+  textBlack_757575: "#757575",
+  textblack_555555: "#555555",
+  textColor_222222: "#222222",
+  namecolor_333333: "#333333",
+  likecolor_666666: "#666666",
+  textcolor_333A42: "#333A42",
+  textbox_CCCCCC: "#CCCCCC",
+  BORDER: "#CECECE",
+  color_00000080: "#00000080",
+  background: "#F3F7FA",
+  profile_border: "#707070",
+  bgColor: "#212529",
+
+  rgb_00b0eb: "#00b0eb",
+  rgb_000000: "#000000",
+  rgb_767676: "#767676",
+  rgb_e73536: "#e73536",
+  rgb_F9F8F8: "#F9F8F8",
+  rgb_ffcd00: "#ffcd00",
+  rgb_ffffff33: "rgba(255,255,255,0.2)",
+  rgb_f9f9f8: "#f9f9f8",
+};
+
+export default colors;

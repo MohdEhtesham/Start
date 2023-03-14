@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.139" height="16.194" viewBox="0 0 14.139 16.194">
+  <g id="noun_hourglass_1932808" transform="translate(-6 -1)">
+    <g id="Group_7226" data-name="Group 7226" transform="translate(6 1)">
+      <path id="Path_3612" data-name="Path 3612" d="M19.209,15.507h-.93V13.482A4.793,4.793,0,0,0,15,9.1a4.742,4.742,0,0,0,3.274-4.386V2.687h.93a.881.881,0,0,0,.93-.843A.881.881,0,0,0,19.209,1H6.93A.881.881,0,0,0,6,1.843a.881.881,0,0,0,.93.843h.93V4.711A4.793,4.793,0,0,0,11.135,9.1,4.742,4.742,0,0,0,7.86,13.482v2.024H6.93A.881.881,0,0,0,6,16.35H6a.881.881,0,0,0,.93.843H19.209a.881.881,0,0,0,.93-.843h0A.881.881,0,0,0,19.209,15.507Zm-1.674,0H8.6V13.482a4.115,4.115,0,0,1,3.349-3.913V8.624A4.115,4.115,0,0,1,8.6,4.711V2.687h8.93V4.711a4.115,4.115,0,0,1-3.349,3.913v.945a4.115,4.115,0,0,1,3.349,3.913Z" transform="translate(-6 -1)" fill="#fff"/>
+      <path id="Path_3613" data-name="Path 3613" d="M19.984,16H15.8a2.286,2.286,0,0,0,2.092,1.364A2.311,2.311,0,0,0,19.984,16Z" transform="translate(-10.823 -10.704)" fill="#fff"/>
+      <path id="Path_3614" data-name="Path 3614" d="M15,34.91v.91H25.046v-.91a1.373,1.373,0,0,0-.4-.91H15.4A1.373,1.373,0,0,0,15,34.91Z" transform="translate(-12.953 -21.218)" fill="#fff"/>
+      <rect id="Rectangle_1082" data-name="Rectangle 1082" transform="translate(5.903 8.859)" fill="#fff"/>
+      <rect id="Rectangle_1083" data-name="Rectangle 1083" height="2" transform="translate(5.903 8.859)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

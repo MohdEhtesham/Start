@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="89" viewBox="0 0 63 89">
+  <g id="sms" transform="translate(-38 -681)">
+    <text id="SMS-2" data-name="SMS" transform="translate(69 765)" fill="#333" font-size="14" font-family="Jost-Regular, Jost"><tspan x="-13.342" y="0">SMS</tspan></text>
+    <g id="sms-3" data-name="sms">
+      <circle id="Ellipse_228" data-name="Ellipse 228" cx="31.5" cy="31.5" r="31.5" transform="translate(38 681)" fill="#1a73e8"/>
+      <g id="comment" transform="translate(54 699.412)">
+        <path id="Path_3603" data-name="Path 3603" d="M26.307-1.332H4.194A4.2,4.2,0,0,0,0,2.861V16.394a4.2,4.2,0,0,0,4.178,4.193v6.141L13,20.587h13.3A4.2,4.2,0,0,0,30.5,16.394V2.861a4.2,4.2,0,0,0-4.193-4.193Zm2.406,17.726A2.409,2.409,0,0,1,26.307,18.8H12.444L5.966,23.308V18.8H4.194a2.409,2.409,0,0,1-2.406-2.406V2.861A2.409,2.409,0,0,1,4.194.455H26.307a2.409,2.409,0,0,1,2.406,2.406Zm0,0" transform="translate(0 0)" fill="#fff"/>
+        <path id="Path_3604" data-name="Path 3604" d="M171.293,131.172h14.174v1.787H171.293Zm0,0" transform="translate(-163.129 -126.189)" fill="#fff"/>
+        <path id="Path_3605" data-name="Path 3605" d="M171.293,211.172h14.174v1.787H171.293Zm0,0" transform="translate(-163.129 -202.377)" fill="#fff"/>
+        <path id="Path_3606" data-name="Path 3606" d="M171.293,291.172h14.174v1.787H171.293Zm0,0" transform="translate(-163.129 -278.564)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

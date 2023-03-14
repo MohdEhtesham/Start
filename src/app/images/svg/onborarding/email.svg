@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="89" viewBox="0 0 63 89">
+  <g id="email" transform="translate(-38 -681)">
+    <text id="E-Mail" transform="translate(69 765)" fill="#333" font-size="14" font-family="Jost-Regular, Jost"><tspan x="-17.787" y="0">E-Mail</tspan></text>
+    <g id="email-2" data-name="email">
+      <circle id="Ellipse_228" data-name="Ellipse 228" cx="31.5" cy="31.5" r="31.5" transform="translate(38 681)" fill="#dc4a3e"/>
+      <g id="email-3" data-name="email" transform="translate(54.662 639.934)">
+        <g id="Group_985" data-name="Group 985" transform="translate(1.516 61)">
+          <g id="Group_984" data-name="Group 984">
+            <path id="Path_3599" data-name="Path 3599" d="M51.729,61H26.857a2.621,2.621,0,0,0-1.136.266L39.234,74.779l3.029-2.911h0l10.6-10.6A2.621,2.621,0,0,0,51.729,61Z" transform="translate(-25.721 -61)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_987" data-name="Group 987" transform="translate(19.933 62.516)">
+          <g id="Group_986" data-name="Group 986">
+            <path id="Path_3600" data-name="Path 3600" d="M348.19,86.728,338.213,96.7l9.977,9.977a2.622,2.622,0,0,0,.266-1.136V87.864A2.621,2.621,0,0,0,348.19,86.728Z" transform="translate(-338.213 -86.728)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_989" data-name="Group 989" transform="translate(0 62.516)">
+          <g id="Group_988" data-name="Group 988">
+            <path id="Path_3601" data-name="Path 3601" d="M.266,86.721A2.621,2.621,0,0,0,0,87.857v17.681a2.622,2.622,0,0,0,.266,1.136L10.243,96.7Z" transform="translate(0 -86.721)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Group_991" data-name="Group 991" transform="translate(1.515 73.743)">
+          <g id="Group_990" data-name="Group 990">
+            <path id="Path_3602" data-name="Path 3602" d="M42.882,277.211l-3.029,2.911a.884.884,0,0,1-1.25,0l-2.911-2.911-9.977,9.977a2.622,2.622,0,0,0,1.137.266H51.722a2.621,2.621,0,0,0,1.136-.266Z" transform="translate(-25.714 -277.211)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
